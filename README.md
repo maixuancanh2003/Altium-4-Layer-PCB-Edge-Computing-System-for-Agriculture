@@ -6,7 +6,7 @@ This project focuses on designing and developing an IoT-based monitoring system 
 ## 🛠️ Hardware Architecture
 - **4-Layer PCB**: Custom-designed for efficient data transfer and hardware integration.
 - **Ethernet Controller**: W5500 for reliable, high-speed networking.
-- **Microcontrollers**: STM32F4 and ESP32 for sensor interfacing and control.
+- **Microcontrollers**: STM32F411RET6 
 - **Edge Computing Platform**: Raspberry Pi 5 for data processing and analysis.
 - **Analog Data Acquisition**: High-precision ADC for environmental monitoring.
 - **Isolated GPIO**: Safe and interference-free sensor connections.
