@@ -1,4 +1,3 @@
-```markdown
 # README: IoT Agriculture Monitoring System
 
 ## 🌱 Project Overview
