@@ -71,9 +71,13 @@ Here are images of the board from different perspectives:
 - Expansion to support additional sensors for broader environmental monitoring.
 - Optimization of communication protocols for higher efficiency.
 
----
-**Author:** [Your Name]  
-**Date:** February 2025  
-**License:** MIT License
-```
+## Contact
 
+For any questions or additional support, feel free to reach out:
+
+- **Name**: Mai Xuan Canh
+- **University**: Ho Chi Minh City University of Technology (HCMUT)
+- **Major**: Control and Automation Engineering
+- **LinkedIn**: [Canh Mai's LinkedIn](https://www.linkedin.com/in/maixuancanh2003/)
+- **Email**: canhmai.work@gmail.com
+---
