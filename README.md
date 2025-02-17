@@ -19,8 +19,8 @@ Here are images of the board from different perspectives:
 | **3d Top**| ![3d Top](Image/3d_TOP.png)   |
 | **3d Bottom**| ![3d Bottom](Image/3d_BOTTOM.png)                |
 | **Layout Top**| ![Layout Top](Image/Top_Layer.png)          |
-| **Layout Middle 1**      | ![Layout Middle 1](Image/Mid_Layer1.png)                |
-| **Layout Middle 2**   | ![Layout Middle 2](Image/Mid_Layer2.png)          |
+| **Layout Middle 1**      | ![Layout Middle 1](Image/Mid_1_Layer.png)                |
+| **Layout Middle 2**   | ![Layout Middle 2](Image/Mid_2_Layer.png)          |
 | **Layout Bottom**   | ![Layout Bottom](Image/Bottom_Layer.png)          |
 
 ## 📡 Communication Technologies
